@@ -68,8 +68,6 @@ spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.format_sql=true
 ```
 
-Replace `YOUR_PASSWORD` with your MySQL password.
-
 ## 🔗 API Endpoints
 
 ### Create Student
@@ -162,7 +160,7 @@ Represents the `Student` table in the MySQL database.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/adikshit783-art/First_CRUD_JPA
 ```
 
 ### 2. Open the project
